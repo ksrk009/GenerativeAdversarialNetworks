@@ -27,8 +27,8 @@ This project implements a **Deep Convolutional Generative Adversarial Network (D
 - **CIFAR-10**: A dataset of 60,000 32x32 RGB images across 10 classes (e.g., airplane, car, bird). The project resizes images to 64x64 for DCGAN compatibility.
 - Automatically downloaded to the `data/` folder during the first run.
 
-## Installation
+<!--## Installation
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/your-username/dcgan-cifar10.git
-   cd dcgan-cifar10
+   cd dcgan-cifar10-->
